@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body,
+td,
+pre {
+  font-size: 14px;
+}
+
+
+
+.mce-content-body {
+  border: 2px solid #4d7cc7;
+  padding: 2px;
+}
+
+.mce-content-body:focus-visible {
+  outline: none;
+}
+
+.variable {
+  height: 14px;
+  width: 145px;
+  letter-spacing: 0.5px;
+  line-height: 1.6em;
+
+  height: 17px;
+  width: 150px;
+  border-radius: 4px;
+  background-color: #e1e5fb;
+  padding-left: 2.5px;
+  padding-right: 2.5px;
+}
